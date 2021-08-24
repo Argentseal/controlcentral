@@ -1,7 +1,7 @@
 {
-  "name": "#ProgramadorFitness",
-  "short_name": "#ProgramadorFitness",
-  "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
+  "name": "Argentseal",
+  "short_name": "Control Argentseal",
+  "description": "Control central del deposito Argentseal",
   "background_color": "#2B2B2B",
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
